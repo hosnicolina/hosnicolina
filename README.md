@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @hosnicolina
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💼 I'm a full-stack developer with 10 years of experience
+- 🌱 I'm passionate about PHP, JavaScript, and Python. I work with frameworks and technologies like Laravel, WordPress, React, React Native, Node.js, and Next.js
+- 🎮 In my free time, I love creating mini-games with Godot – coding for fun is my favorite hobby
+- 💞️ I’m always open to collaborating on exciting web and mobile projects, or indie game development
+- 📫 How to reach me: Feel free to connect via GitHub or email at hosniboniekcolinarodriguez@gmail.com
+
 
 <!---
 hosnicolina/hosnicolina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
