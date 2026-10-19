@@ -3,7 +3,7 @@
 - 🌱 I'm passionate about PHP, JavaScript, and Python. I work with frameworks and technologies like Laravel, WordPress, React, React Native, Node.js, and Next.js
 - 🎮 In my free time, I love creating mini-games with Godot – coding for fun is my favorite hobby
 - 💞️ I’m always open to collaborating on exciting web and mobile projects, or indie game development
-- 📫 How to reach me: Feel free to connect via GitHub or email at hosniboniekcolinarodriguez@gmail.com
+- 📫 How to reach me: Feel free to connect via GitHub or email at hosniboniekcolina@gmail.com
 
 
 <!---
